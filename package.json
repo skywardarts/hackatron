@@ -34,7 +34,7 @@
     "babel-register": "6.9.0",
     "css-loader": "0.23.1",
     "express": "4.13.4",
-    "minimist": "1.2.0",
+    "minimist": "1.2.6",
     "path": "0.12.7",
     "phaser": "https://github.com/photonstorm/phaser.git",
     "postcss-js": "0.1.3",
